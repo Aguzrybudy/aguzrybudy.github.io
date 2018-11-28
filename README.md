@@ -1,4 +1,4 @@
-## Welcome to GitHub Aguzrybudy
+## Aguzrybudy GitHub 
 
 You can donwload & fork sample source code from my repository list.
 
