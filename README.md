@@ -1,29 +1,27 @@
 ## Welcome to GitHub Aguzrybudy
 
-You can use the [editor on GitHub](https://github.com/Aguzrybudy/aguzrybudy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can donwload & fork sample source code from my repository list.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you need tutorial from source code, go to my website http://www.aguzrybudy.com or http://www.aguzrybudy.blogspot.com.
 
-### Markdown
+### List Source Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+List source code you can download from my repository 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# PHP
+- none
+- none
+## Codeigniter
+1. none
+2. none
+### Laravel
+1. none
+2. none
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+```
