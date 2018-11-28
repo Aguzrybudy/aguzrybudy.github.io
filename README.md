@@ -16,7 +16,6 @@ List source code you can download from my repository
 
 # Tips Github
 1. **Bold** and _Italic_ and `Code` text
-2. 
-[Link](url) and ![Image](src)
+2. [Link](url) and ![Image](src)
 
 ```
